@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/WeeklyCalendar/static/css/main.073c9b0a.css",
-    "main.js": "/WeeklyCalendar/static/js/main.be2a5267.js",
+    "main.js": "/WeeklyCalendar/static/js/main.bce3040b.js",
     "static/js/787.f5ec57cd.chunk.js": "/WeeklyCalendar/static/js/787.f5ec57cd.chunk.js",
     "index.html": "/WeeklyCalendar/index.html",
     "main.073c9b0a.css.map": "/WeeklyCalendar/static/css/main.073c9b0a.css.map",
-    "main.be2a5267.js.map": "/WeeklyCalendar/static/js/main.be2a5267.js.map",
+    "main.bce3040b.js.map": "/WeeklyCalendar/static/js/main.bce3040b.js.map",
     "787.f5ec57cd.chunk.js.map": "/WeeklyCalendar/static/js/787.f5ec57cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.be2a5267.js"
+    "static/js/main.bce3040b.js"
   ]
 }
